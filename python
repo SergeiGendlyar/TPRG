@@ -1,4 +1,0 @@
-Method: lfsr
-Length: 500
-Params: '987654321;64;63;43;29'
-Filename: output_lfsr.txt
